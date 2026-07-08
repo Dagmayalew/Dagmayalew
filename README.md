@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Dagm%20Ayalew&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=aaaaaa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0f0f,100:1a1a2e&amp;height=200&amp;section=header&amp;text=Dagm%20Ayalew&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Mobile%20App%20%26%20Full%20Stack%20Developer&amp;descAlignY=58&amp;descSize=20&amp;descColor=aaaaaa" width="100%" />
 
 <br/>
 
@@ -129,14 +129,14 @@ Currently at **Eagle Lion System Technologies** building production fintech mobi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dagmayalew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dagmayalew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dagmayalew&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dagmayalew&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dagmayalew&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dagmayalew&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff)
 
 </div>
 
@@ -163,7 +163,7 @@ Currently at **Eagle Lion System Technologies** building production fintech mobi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,100:0f0f0f&amp;height=100&amp;section=footer" width="100%" />
 
 **Let's build something.** → [dagi-portfolio-terminal-1uaa.vercel.app](https://dagi-portfolio-terminal-1uaa.vercel.app)
 
