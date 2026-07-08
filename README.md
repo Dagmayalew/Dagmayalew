@@ -133,9 +133,8 @@ Currently at **Eagle Lion System Technologies** building production fintech mobi
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Dagmayalew?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&label=Followers)](https://github.com/Dagmayalew)
-[![GitHub stars](https://img.shields.io/github/stars/Dagmayalew?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&label=Stars)](https://github.com/Dagmayalew)
-[![Profile views](https://komarev.com/ghpvc/?username=Dagmayalew&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/Dagmayalew)
+![Dagm's GitHub Stats](https://github-readme-stats-one-gamma.vercel.app/api?username=Dagmayalew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-one-gamma.vercel.app/api/top-langs/?username=Dagmayalew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 <br/>
 
