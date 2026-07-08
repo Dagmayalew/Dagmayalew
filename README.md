@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-0f0f0f?style=for-the-badge)](https://dagi-portfolio-terminal-1uaa.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-0f0f0f?style=for-the-badge)](https://dagmayalew.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagm-ayalew/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagmayalew489@gmail.com)
 
@@ -168,6 +168,6 @@ Currently at **Eagle Lion System Technologies** building production fintech mobi
 <div align="center">
 
 
-**Let's build something.** → [dagi-portfolio-terminal-1uaa.vercel.app](https://dagi-portfolio-terminal-1uaa.vercel.app)
+**Let's build something.** → [dagi-portfolio-terminal-1uaa.vercel.app](https://dagmayalew.online)
 
 </div>
