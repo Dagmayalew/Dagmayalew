@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0f0f,100:1a1a2e&amp;height=200&amp;section=header&amp;text=Dagm%20Ayalew&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Mobile%20App%20%26%20Full%20Stack%20Developer&amp;descAlignY=58&amp;descSize=20&amp;descColor=aaaaaa" width="100%" />
+<br/>
+
+# Dagm Ayalew
+
+### Mobile App & Full Stack Developer · 📍 Addis Ababa, Ethiopia
 
 <br/>
 
@@ -163,7 +167,6 @@ Currently at **Eagle Lion System Technologies** building production fintech mobi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,100:0f0f0f&amp;height=100&amp;section=footer" width="100%" />
 
 **Let's build something.** → [dagi-portfolio-terminal-1uaa.vercel.app](https://dagi-portfolio-terminal-1uaa.vercel.app)
 
