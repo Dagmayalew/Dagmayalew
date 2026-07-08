@@ -133,14 +133,14 @@ Currently at **Eagle Lion System Technologies** building production fintech mobi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dagmayalew&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dagmayalew&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" />
+![Dagm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagmayalew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagmayalew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dagmayalew&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dagmayalew&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
